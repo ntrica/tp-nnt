@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523625154 source:f:\tp utima version\tp\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+
+1523624780 f:\tp utima version\tp\fun.h
+
+1523625372 source:f:\tp utima version\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fun.h"
+
+1523625154 source:c:\test\tp utima version\tp\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+
+1523624780 c:\test\tp utima version\tp\fun.h
+
+1523625372 source:c:\test\tp utima version\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fun.h"
+
